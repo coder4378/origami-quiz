@@ -1,0 +1,5 @@
+name = input("what is name(github username)")
+print("hello" , name)
+rating = input("please give us a rating from 1 to 10")
+feature = input("what do you think any additional feature")
+print("thank you")
